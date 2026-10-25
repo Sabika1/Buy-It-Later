@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.kotlin/
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary and log files
+*.log
+*.tmp
